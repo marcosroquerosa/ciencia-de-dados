@@ -9,3 +9,5 @@ Base matemática para computação científica.
 Trabalhando com dados textuais.
 ### 🔹 `visualizacao/`
 Transformar dados em informação visual.
+#### Matplotlib
+#### Seaborn
