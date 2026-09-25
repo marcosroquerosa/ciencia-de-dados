@@ -18,10 +18,14 @@ Investigar:
 - gêneros, categorias e tags;
 - relações entre variáveis numéricas.
 
-Machine Learning:
+Arquivo: `steam_games_eda.ipynb`
+
+**Machine Learning:**
 
 1. **Regressão:** prever o preço de um jogo;
 2. **Classificação:** classificar o alcance estimado em faixas.
+
+Arquivo: `ml_prever_preco_alcance.ipynb`
 
 ## Origem dos dados
 
